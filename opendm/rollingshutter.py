@@ -21,6 +21,7 @@ RS_DATABASE = {
 
     'teracube teracube one': 32 # TeraCube TeraCube_One TR1907Q Mobile Phone
     
+    'dji fc3582': 60, # DJI Mini 3 Pro - 48 MP 
     # Help us add more! 
     # See: https://github.com/OpenDroneMap/RSCalibration for instructions
 }
